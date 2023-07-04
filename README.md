@@ -10,7 +10,9 @@ A hand tracking module is a software component or algorithm that is designed to 
 This keyboard consists of three rows of alphabets arranged in a layout similar to a physical keyboard:
 
 First Row: "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"
+
 Second Row: "A", "S", "D", "F", "G", "H", "J", "K", "L", ";"
+
 Third Row: "Z", "X", "C", "V", "B", "N", "M", ",", ".", "/"
 
 
