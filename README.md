@@ -23,3 +23,7 @@ The virtual keyboard developed using OpenCV and a hand tracking module offers us
 ![image](https://github.com/Grunt-prog/Virtual-Keyboard/assets/86661317/baefd1bc-3312-4469-8c20-285766248afd)
 
 ![image](https://github.com/Grunt-prog/Virtual-Keyboard/assets/86661317/83109972-425a-4abd-965b-0b1a7e8b4b57)
+
+**output**
+
+![image](https://github.com/Grunt-prog/Virtual-Keyboard/assets/86661317/deba4d01-8f7d-404c-92fa-44f26b331f9b)
